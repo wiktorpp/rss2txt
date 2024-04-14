@@ -1,5 +1,5 @@
 # rss2txt
-RSS to .txt python downloader
+Python script for displaying and downloading an rss channel to a txt file. New posts from the same channels are appended to the top of the file.
 ## Install
 ```bash
 git clone https://github.com/Zajic86/rss2txt.git
